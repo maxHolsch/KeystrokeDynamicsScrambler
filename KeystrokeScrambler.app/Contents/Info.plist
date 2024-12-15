@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key>
+    <string>keystroke_launcher</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.yourname.keystrokescrambler</string>
+    <key>CFBundleName</key>
+    <string>KeystrokeScrambler</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>10.10</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>This app needs to monitor keystrokes to scramble typing patterns.</string>
+    <key>NSInputMonitoringUsageDescription</key>
+    <string>This app needs to monitor keyboard input to function.</string>
+</dict>
+</plist>

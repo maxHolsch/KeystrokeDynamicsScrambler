@@ -1,0 +1,4 @@
+#!/bin/bash
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PYTHON_PATH="$(which python3)"
+"$PYTHON_PATH" "$DIR/../Resources/scripts/gui_scrambler.py"
